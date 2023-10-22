@@ -1,0 +1,29 @@
+body {
+background: #7ff;
+}
+
+.principal {
+    padding: 30px;
+}
+
+#banner {
+    width: 100%;
+}
+
+.titulo-centralizado {
+    text-align: center
+}
+
+p {
+    text-align: justify;
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+}
+
+strong {
+    color: #000000
+}
+
